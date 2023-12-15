@@ -1,1 +1,1 @@
-FROM FROM mcr.microsoft.com/devcontainers/ruby
+FROM mcr.microsoft.com/devcontainers/ruby
